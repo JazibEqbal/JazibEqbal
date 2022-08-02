@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JazibEqbal
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning C++ and DSA.
-- 💞️ I’m looking to collaborate on new ideas which help in building better society for all.
+- 💞️ I’m looking to collaborate on new ideas which can help to build better society for all.
 - 📫 How to reach me ... @jazibeqbal0526@gmail.com
 
 <!---
