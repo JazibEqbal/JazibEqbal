@@ -8,7 +8,7 @@ Jazib</a></h1>
 
 - 🔭 I’m a Software Engineer
 
-- :school_satchel: I’m a graduate of Chandigarh University 2022.
+- :school_satchel: I’m a graduate of Chandigarh University 2023.
 
 - 📫 How to reach me **jazibeqbal0526@gmail.com**
 
@@ -29,7 +29,7 @@ Jazib</a></h1>
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/JazibEqbal">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/jazib">
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/jazib_eqbal2607">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/EqbalJazib">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
@@ -37,14 +37,7 @@ Jazib</a></h1>
 
 </p>
 
-<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> -->
 <div align="center">
-<!--  <a href="https://github.com/imf-ali">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imf-ali&theme=nord&show_icons=true" />
-</a> -->
-<!-- <a href="https://github.com/imf-ali">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imf-ali&theme=nord" />
-</a> -->
 <br>
  <br>
  <h3 align="left">Languages and Tools:</h3>
